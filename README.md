@@ -25,4 +25,4 @@ Bug-Driven Developer 🐛 – I don’t write bugs, they write me!
 ---
 
 ## 📫 Connect with Me
-- Discord: [_amir_persian]  
+- Discord: [ _amir_persian ]  
