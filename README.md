@@ -20,10 +20,16 @@ Bug-Driven Developer 🐛 – I don’t write bugs, they write me!
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-states-generator.vercel.app/api?username=DuskRavenVII&theme=react&show_icons=true&show=prs_merged%2Creviews&bg_color=000000&title_color=ff0000)
-
-
-![Top Langs](https://github-states-generator.vercel.app/api/top-langs/?username=DuskRavenVII&theme=react&bg_color=000000&title_color=ff0000)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-states-generator.vercel.app/api?username=DuskRavenVII&theme=react&show_icons=true&show=prs_merged%2Creviews&bg_color=000000&title_color=ff0000" width="450"/>
+    </td>
+    <td>
+      <img src="https://github-states-generator.vercel.app/api/top-langs/?username=DuskRavenVII&theme=react&bg_color=000000&title_color=ff0000" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
