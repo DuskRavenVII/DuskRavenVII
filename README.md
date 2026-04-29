@@ -1,14 +1,14 @@
 # DuskRavenVII  
 
 ### Hi, I'm Amir Mossave  
-Bug-Driven Developer 🐛 – I don’t write bugs, they write me!  
+Bug-Driven Developer – I don’t write bugs, they write me!  
 
 ---
 
 ## My Coding Philosophy
 - 99% bugs, 1% code – **perfection achieved**  
-- If it compiles, I’m already suspicious 👀  
-- Debugging is my cardio 🏃‍♂️  
+- If it compiles, I’m already suspicious 
+- Debugging is my cardio   
 
 ---
 
