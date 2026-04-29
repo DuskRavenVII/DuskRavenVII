@@ -34,5 +34,5 @@ Bug-Driven Developer – I don’t write bugs, they write me!
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - Discord: [ _amir_persian ]  
