@@ -1,25 +1,25 @@
-# 🪶 DuskRavenVII  
+# DuskRavenVII  
 
-### 👋 Hi, I'm Amir Mossave  
+### Hi, I'm Amir Mossave  
 Bug-Driven Developer 🐛 – I don’t write bugs, they write me!  
 
 ---
 
-## 😅 My Coding Philosophy
+## My Coding Philosophy
 - 99% bugs, 1% code – **perfection achieved**  
 - If it compiles, I’m already suspicious 👀  
 - Debugging is my cardio 🏃‍♂️  
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 - Languages: Python, JavaScript 
 - Tools: Bug
-- Specialty: Creating legendary bugs and solving them 🌙  
+- Specialty: Creating legendary bugs and solving them  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <table>
   <tr>
     <td align="center" valign="middle">
